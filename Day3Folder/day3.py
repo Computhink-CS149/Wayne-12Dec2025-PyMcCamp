@@ -1,6 +1,6 @@
 # Write all your codes for Day 3 here.
 # COMMENT out the previous task before going on to the next task
-print("hello from day3")
+# print("hello from day3")
 
 ########################################################################
 # Task 1:
@@ -34,12 +34,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
+import random
+for count in range(10):
+    number = random.randint(1,10)
+    print(number)
+
 
 
 
 ########################################################################
 # Task 8:
-
+num1 = random. 
 
 
 ########################################################################
