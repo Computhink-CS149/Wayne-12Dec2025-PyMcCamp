@@ -39,7 +39,7 @@ user_ans= input(riddle)
 
 while user_ans != correct_ans:
     user_ans= input(riddle)
-    print("correct")
+
 
 
 
