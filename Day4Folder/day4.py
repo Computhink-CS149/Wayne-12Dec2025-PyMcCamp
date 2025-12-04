@@ -38,7 +38,8 @@ correct_ans = "candle"
 user_ans= input(riddle)
 
 while user_ans != correct_ans:
-    input(riddle)
+    user_ans= input(riddle)
+
 
 
 
